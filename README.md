@@ -28,6 +28,13 @@ A p5 prototype with basic functionality has been developed. Required features an
 - A function to delete created lines has to be implemented
 - A function to manually mark walls as “external”, “internal heated” and “internal not heated” has to be implemented
 
+## Calculation
+Missing values will be calculated if possible.
+
+Example:
+![image](https://github.com/xbln/measurement/assets/27554937/496f6717-b2ff-4f78-97e7-98c001f388ca)
+Once we have the distance values for P1 to P2 and P2 to P3 we can calculate P3 to P4 and P4 to P1 (90° angles assumed).
+
 ## Possible Extensions
 - Add doors, windows and radiators
 - Columns or poles can be placed within the room
