@@ -41,7 +41,8 @@ Once we have the distance values for P1 to P2 and P2 to P3 we can calculate P3 t
 - Add doors, windows and radiators
 - Columns or poles can be placed within the room
 - Arcs and round walls can be placed
-- measuring values are displayed along the walls 
+- measuring values are displayed along the walls
+- a dotted line is displayed for measuring 90° towards walls
 
 ## Prototype
 ![image](https://github.com/xbln/measurement/assets/27554937/7ea7f761-b3d5-4d89-89e0-b71cf212cd18)
