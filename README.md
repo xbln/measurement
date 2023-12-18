@@ -43,4 +43,4 @@ Once we have the distance values for P1 to P2 and P2 to P3 we can calculate P3 t
 - Arcs and round walls can be placed 
 
 ## Prototype
-![image](https://github.com/xbln/measurement/assets/27554937/5675f707-7f2d-4df9-b0ed-f3566e0364d1)
+![image](https://github.com/xbln/measurement/assets/27554937/7ea7f761-b3d5-4d89-89e0-b71cf212cd18)
