@@ -42,6 +42,7 @@ Once we have the distance values for P1 to P2 and P2 to P3 we can calculate dist
 - Columns or poles can be placed within the room
 - Arcs and round walls can be placed
 - distances are displayed along the walls
+- a dotted line is displayed for measuring 90° towards walls
 - distances defined or calculated are pushed to a server via REST API 
 
 ## Prototype
