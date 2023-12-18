@@ -32,3 +32,6 @@ A p5 prototype with basic functionality has been developed. Required features an
 - Add doors, windows and radiators
 - Columns or poles can be placed within the room
 - Arcs and round walls can be placed 
+
+## Prototype
+![image](https://github.com/xbln/measurement/assets/27554937/6be36443-f3b6-451d-acbf-4ece3e8359c4)
